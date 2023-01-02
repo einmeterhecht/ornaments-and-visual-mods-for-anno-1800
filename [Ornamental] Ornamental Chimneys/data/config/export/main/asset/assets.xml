@@ -1,0 +1,323 @@
+<ModOps>
+  <!-- Code is baased on SpiceItUp_CityOrnaments -->
+
+  <!-- New buildings -->
+  <ModOp Type="addNextSibling" GUID="102159" ModOpID="chimney_1x1">
+      <Asset>
+        <Template>Lirvan_Chimneys_OrnamentalBuildingProvidingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>2141592002</GUID>
+		        <Name>Chimney Ornament (1x1) - Lirvan</Name>
+            <IconFilename>data\ui\2kimages\main\3dicons\modding\lirvan\ornaments\chimney.png</IconFilename>
+            <InfoDescription>2141592208</InfoDescription>
+          </Standard>
+          <Blocking />
+          <Building>
+            <!-- Category: Ornamental -->
+            <BuildingCategoryName>11149</BuildingCategoryName>
+            <BuildModeRandomRotation>90</BuildModeRandomRotation>
+            <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+          </Building>
+          <Cost>
+            <Costs>
+              <Item>
+                <!-- Money -->
+                <Ingredient>1010017</Ingredient>
+                <Amount>200</Amount>
+              </Item>
+              <Item>
+                <!-- Bricks -->
+                <Ingredient>1010205</Ingredient>
+                <Amount>5</Amount>
+              </Item>
+            </Costs>
+          </Cost>
+          <Selection />
+          <Object>
+            <Variations>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_06__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_07_ground__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_04__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_01_main__b.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_01_main__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_01_middle__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_01_middle__b.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_02_01__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_02_01__b.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_02_02__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_02_02__b.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_02_03__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_04_main__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_07_ground__b.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_07_side__a.cfg</Filename>
+              </Item>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_09__a.cfg</Filename>
+              </Item>
+            </Variations>
+          </Object>
+          <Constructable />
+          <Mesh />
+          <SoundEmitter />
+          <Locked />
+          <FeedbackController />
+          <Ornament>
+            <OrnamentUnit>1</OrnamentUnit>
+            <OrnamentDescription>2141592205</OrnamentDescription>
+          </Ornament>
+          <AmbientMoodProvider />
+          <Pausable />
+          <Infolayer />
+          <Culture>
+            <CultureType>Factory</CultureType>
+          </Culture>
+          <FactoryBase />
+          <LogisticNode>
+            <TransporterCountMax>0</TransporterCountMax>
+          </LogisticNode>
+          <BuffFactory>
+            <BaseBuff>2141592004</BaseBuff>
+            <BaseBuffScope>Radius</BaseBuffScope>
+            <BaseBuffDistance>8</BaseBuffDistance>
+          </BuffFactory>
+      </Values>
+      </Asset>
+  </ModOp>
+  <ModOp Type="addNextSibling" GUID="102159" ModOpID="chimney_2x1">
+      <Asset>
+        <Template>Lirvan_Chimneys_OrnamentalBuildingProvidingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>2141592003</GUID>
+            <Name>chimney ornament (2x1) - Lirvan</Name>
+            <IconFilename>data\ui\2kimages\main\3dicons\modding\lirvan\ornaments\double_chimney.png</IconFilename>
+            <InfoDescription>2141592209</InfoDescription>
+          </Standard>
+          <Blocking />
+          <Building>
+            <!-- Category: Ornamental -->
+            <BuildingCategoryName>11149</BuildingCategoryName>
+            <BuildModeRandomRotation>90</BuildModeRandomRotation>
+            <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+          </Building>
+          <Cost>
+            <Costs>
+              <Item>
+                <!-- Money -->
+                <Ingredient>1010017</Ingredient>
+                <Amount>400</Amount>
+              </Item>
+              <Item>
+                <!-- Bricks -->
+                <Ingredient>1010205</Ingredient>
+                <Amount>10</Amount>
+              </Item>
+            </Costs>
+          </Cost>
+          <Selection />
+          <Object>
+            <Variations>
+              <Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_08_06__a_1x2.cfg</Filename>
+              </Item>
+              <!--<Item>
+                  <Filename>data/modgraphics/buildings/ornamental/chimneys/final/chimney_04__a_double_1x2.cfg</Filename>
+              </Item>-->
+            </Variations>
+          </Object>
+          <Constructable />
+          <Mesh />
+          <SoundEmitter />
+          <Locked />
+          <FeedbackController />
+          <Ornament>
+            <OrnamentUnit>1</OrnamentUnit>
+            <OrnamentDescription>2141592206</OrnamentDescription>
+          </Ornament>
+          <AmbientMoodProvider />
+          <Pausable />
+          <Infolayer />
+          <Culture>
+            <CultureType>Factory</CultureType>
+          </Culture>
+          <FactoryBase />
+          <LogisticNode>
+            <TransporterCountMax>0</TransporterCountMax>
+          </LogisticNode>
+          <BuffFactory>
+            <BaseBuff>2141592004</BaseBuff>
+            <BaseBuffScope>Radius</BaseBuffScope>
+            <BaseBuffDistance>10</BaseBuffDistance>
+          </BuffFactory>
+        </Values>
+      </Asset>
+  </ModOp>
+  
+  <!-- Effect provided by chimney -->
+  <ModOp Type="addNextSibling" GUID="269979"  ModOpID="chimney_buff">
+    <Asset>
+      <Template>GuildhouseBuff</Template>
+      <Values>
+        <Standard>
+          <GUID>2141592004</GUID>
+          <Name>Chimney Buff - Reduced Pollution</Name>
+          <IconFilename>data\ui\2kimages\main\3dicons\modding\lirvan\ornaments\chimney_white_smoke.png</IconFilename>          
+        </Standard>
+        <ItemEffect>
+          <EffectTargets>
+            <!-- All ironworks and foundries -->
+            <Item>
+              <GUID>190842</GUID>
+            </Item>
+          </EffectTargets>
+          <AllowStacking>1</AllowStacking>
+        </ItemEffect>
+        <Text />
+        <FactoryUpgrade />
+        <BuildingUpgrade />
+        <Buff />
+        <PopulationUpgrade />
+        <ResidenceUpgrade />
+        <IncidentInfectableUpgrade />
+        <CultureUpgrade>
+          <AttractivenessUpgrade>
+            <Value>-30</Value>
+            <Percental>1</Percental>
+          </AttractivenessUpgrade>
+        </CultureUpgrade>
+        <ModuleOwnerUpgrade />
+        <IncidentInfectableUpgrade />
+        <PowerplantUpgrade />
+        <IndustrializableUpgrade />
+        <ItemContainerUpgrade />
+        <IncidentInfluencerUpgrade />
+        <IrrigationUpgrade />
+        <EcoSystemProviderUpgrade />
+        <ResourceUpgrade />     
+      </Values>
+    </Asset>
+  </ModOp>
+  
+  <!-- Construction menu: Moderate/SA beautification menu (sorted by type)-> Industrial/Harbour -> Industrial decorations -> (after Bright Harvest Ornaments) -->
+  <ModOp Type="addNextSibling" GUID="500153" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '269808']">
+    <Item>
+      <Building>2141592002</Building>
+    </Item>
+    <Item>
+      <Building>2141592003</Building>
+    </Item>
+  </ModOp>
+  
+  <!-- Construction menu: Moderate/SA beautification menu (sorted by release)-> Seasons -> Bright Harvest Ornaments -> (at the end) -->
+  <ModOp Type="addNextSibling" GUID="5993" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '118232']">
+    <Item>
+      <Building>2141592002</Building>
+    </Item>
+    <Item>
+      <Building>2141592003</Building>
+    </Item>
+  </ModOp>
+  
+  <!-- Unlock trigger -->
+  <ModOp Type="addNextSibling" GUID='130248'>
+    <Asset>
+    <Template>Trigger</Template>
+    <Values>
+      <Standard>
+        <GUID>2141592207</GUID>
+        <Name>150 workers reached</Name>
+        <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+      </Standard>
+      <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <!-- Same as unlock of Bright Harvest worker ornaments -->
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000001</Context>
+            <CounterAmount>150</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>2141592002</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>2141592003</Asset>
+                  </Item>
+                </UnlockAssets>
+                <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+    </Values>
+    </Asset>
+  </ModOp>
+
+
+  <!-- Radius of Buff -->
+  <ImyaExpose Path="./Values/BuffFactory/BaseBuffDistance" ModOpID="chimney_1x1" ExposeID="chimney_1x1_radius" Description="Buff radius of 1x1 chimneys" Kind="Slider">
+      <SliderDefinition Min="1" Max="16" Stepping="1" />
+  </ImyaExpose>
+  <ImyaExpose Path="./Values/BuffFactory/BaseBuffDistance" ModOpID="chimney_2x1" ExposeID="chimney_2x1_radius" Description="Buff radius of double chimneys" Kind="Slider">
+      <SliderDefinition Min="1" Max="16" Stepping="1" />
+  </ImyaExpose>
+
+  <!-- Intensity of buff -->
+  <ImyaExpose Path="./Values/CultureUpgrade/AttractivenessUpgrade/Value" ModOpID="chimney_buff" ExposeID="buff_intensity" Description="By how much is the negative attractiveness reduced (in percent)?" Kind="Slider">
+      <SliderDefinition Min="-100" Max="0" Stepping="5" />
+  </ImyaExpose>
+
+  <!-- Does buff stack? -->
+  <ImyaExpose Path="./Values/ItemEffect/AllowStacking" ModOpID="chimney_buff" ExposeID="buff_stacking" Description="Does the buff stack? (0=no; 1=yes)" Kind="Enum">
+    <FixedValues>
+      <Value>0</Value>
+      <Value>1</Value>
+    </FixedValues>
+  </ImyaExpose>
+
+</ModOps>

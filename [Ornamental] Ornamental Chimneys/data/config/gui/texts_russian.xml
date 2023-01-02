@@ -1,0 +1,32 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>2141592002</GUID>
+            <Text>Chimney</Text>
+        </Text>
+        <Text>
+            <GUID>2141592003</GUID>
+            <Text>Double Chimney</Text>
+        </Text>
+        <Text>
+            <GUID>2141592205</GUID>
+            <Text>The proportions remind of a Greek column.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592206</GUID>
+            <Text>A monument that your residents are not proud of.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592208</GUID>
+            <Text>Reduces pollution from nearby industrial plants.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592209</GUID>
+            <Text>Reduces pollution from nearby industrial plants.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592004</GUID>
+            <Text>Improved Exhaust Filtering</Text>
+        </Text>
+    </ModOp>
+</ModOps>

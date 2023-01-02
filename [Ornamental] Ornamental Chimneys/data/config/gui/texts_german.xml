@@ -1,0 +1,32 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>2141592002</GUID>
+            <Text>Qualmender Schlot</Text>
+        </Text>
+        <Text>
+            <GUID>2141592003</GUID>
+            <Text>Doppelter Schornstein</Text>
+        </Text>
+        <Text>
+            <GUID>2141592205</GUID>
+            <Text>Himmelstrebend hoch und höllisch hässlich.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592206</GUID>
+            <Text>Dort oben riecht niemand den Qualm - dafür sieht man ihn umso besser...</Text>
+        </Text>
+		<Text>
+            <GUID>2141592208</GUID>
+            <Text>Reduziert die Verschmutzung von Industrieanlagen im Radius.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592209</GUID>
+            <Text>Reduziert die Verschmutzung von Industrieanlagen im Radius.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592004</GUID>
+            <Text>Verbesserte Abgasfilterung</Text>
+        </Text>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,50 @@
+{
+  "Version": "1.0",
+  "ModID": "Lirvan_Chimneys",
+  "IncompatibleIds": [],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Ornamental",
+    "French": null,
+    "German": "Zierobjekte",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "The Chimney Collection",
+    "French": null,
+    "German": "Die Schlot-Sammlung",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "# The Chimney Collection\n\n![](./banner.jpg)\n\nThis mod contains ornamental chimneys. They are intended for filling gaps in industrial areas. There is a 1x1 version (16 variations) and a 2x1 version (1 variation).\n\nYou can find them in the construction menu at:\n`Beautification menu (sorted by type) -> Industrial/Harbour -> Industrial decorations` or\n`Beautification menu (sorted by release) -> Seasons -> Bright Harvest Ornaments`\n\nAs a bonus, they provide a buff on surrounding heavy industry buildings, reducing their negative attractiveness. This buff should encourage industrial beauty building on residential/cultural islands.\n\nIf you are using the iModYourAnno Mod Manager, you can adjust range and intensity of the buff using the Mod Tweaking system.",
+    "French": null,
+    "German": "# Die Schlot-Sammlung\n\n![](./banner.jpg)\n\nDiese Mod enthält zwei Schornstein-Ornamente: Eine 1x1-Version (16 Variationen) und eine 2x1-Version (1 Variation).\n\nIm Baumenu findet man sie unter\n`Ornament-Menu (sortiert nach Typ) -> Industrie/Hafen -> Industrielle Ornamente` oder bei\n`Ornament-Menu (sortiert nach Veröffentlichung) -> Seasons -> Reiche Ernte`\n\nAls kleinen Bonus geben sie einen Buff auf umliegende Gebäude der Schwerindustrie. Der Buff reduziert die negative Attraktivität. Der Buff soll dazu ermutigen und es verkraftbar machen, industriellen Schönbau auf Wohn- und Tourismusinseln zu betreiben.\n\nMit dem Mod-Tweaking-System des iModYourAnno Mod-Managers kann man Radius und Intensität des Buffs anpassen.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Lirvan",
+  "CreatorContact": "Via Discord (Lirvan), Nexusmods (Lirvan1800) or GitHub (einmeterhecht)",
+  "Image" : "banner.jpg"
+}

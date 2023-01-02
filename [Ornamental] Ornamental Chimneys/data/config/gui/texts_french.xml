@@ -1,0 +1,32 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>2141592002</GUID>
+            <Text>Cheminée d'évacuation des fumées</Text>
+        </Text>
+        <Text>
+            <GUID>2141592003</GUID>
+            <Text>Cheminée double</Text>
+        </Text>
+        <Text>
+            <GUID>2141592205</GUID>
+            <Text>Plus haute que la Tour de Babel.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592206</GUID>
+            <Text>Lorsque ça est construit, il faut planter deux arbres !</Text>
+        </Text>
+		<Text>
+            <GUID>2141592208</GUID>
+            <Text>Réduit la pollution provenant des sites industrielles voisines.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592209</GUID>
+            <Text>Réduit la pollution provenant des sites industrielles voisines.</Text>
+        </Text>
+		<Text>
+            <GUID>2141592004</GUID>
+            <Text>Filtrage d'Évacuation Améliorée</Text>
+        </Text>
+    </ModOp>
+</ModOps>
