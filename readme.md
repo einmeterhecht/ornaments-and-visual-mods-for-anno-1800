@@ -1,4 +1,4 @@
-# This Repository contains Mods for Anno 1800 that add ornamental buildings or change visuals.
+This Repository contains Mods for Anno 1800 that add ornamental buildings or change visuals.
 
 ## Mods:
 
